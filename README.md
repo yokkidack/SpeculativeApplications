@@ -1,7 +1,7 @@
 # SpeculativeApplications
 ## "Game"
 | company | what | link| requirements |
-|---|---|
+|---|---|---|---|
 | [Rare](www.rare.co.uk) | Art | https://www.rare.co.uk/careers/speculative-application-art | Practical experience
 You have an excellent core art foundation, and you're competent in relevant art creation software including Maya, ZBrush, Photoshop, Illustrator and more.
 Focused expertise
