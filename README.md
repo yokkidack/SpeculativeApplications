@@ -12,3 +12,7 @@
 | Supermassive Games | speculative+application | https://www.supermassivegames.com/careers/speculative-application | |
 |Kolibri Games |Open/Speculative Application (f/m/d)| https://www.kolibrigames.com/career/position/?position=d2ff05ad-e219-4dd9-985a-825d72bcf671 | |
 |GrimLore games |OPEN APPLICATION (M/F/D) |https://grimloregames.com/jobs/ | |
+| Glowmade games| Speculative | https://www.glowmade.com/jobs/speculative | |
+| SOFTGAMES | Unsolicited Application | https://jobs.softgames.de/o/unsolicited-application | |
+| asobostudio | Speculative application | https://www.asobostudio.com/careers/speculative-application-190 | |
+| creative-assembly |"you can send us a speculative application"| https://www.creative-assembly.com/blog/trainee-positions-ca | |
